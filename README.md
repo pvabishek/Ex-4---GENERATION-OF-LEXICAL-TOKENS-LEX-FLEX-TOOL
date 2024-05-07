@@ -32,6 +32,8 @@
 7.	Compile that file with C compiler and verify the output.
 # PROGRAM
 ```
+### name ; abishek pv
+reg no: 212222230003
 /* program name is lexp.l */
 %{
 /* program to recognize a c program */
